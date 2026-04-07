@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/grupoDinamita.java.iml" filepath="$PROJECT_DIR$/.idea/grupoDinamita.java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Cola_Prioridad_Estatica.iml" filepath="$PROJECT_DIR$/Cola_Prioridad_Estatica.iml" />
     </modules>
   </component>
 </project>
