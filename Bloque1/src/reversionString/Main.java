@@ -14,6 +14,7 @@ public class Main {
         reversor.InicializarPila();
         reversor.ingresarString("MUNDO");
         System.out.println("--------------------------");
+        System.out.println("--------its correctly running ur file --------------");
         System.out.println(reversor.obtenerStringInvertido());
 
 
