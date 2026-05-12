@@ -1,0 +1,9 @@
+Ejercisio 1:
+la complejidad de este agoritmo es de O(n^2) ya que presenta un bucle for anidado
+
+Ejercisio 2:
+1)ColaPU: tiene una complejidad de O(n) ya que al insertarse un elemento, tiene que mover todoslos que ya existen dentro de la cola
+2)ColaPI: tiene una complejidad de O(n) ya que se tiene que recorrer toda la cola para encontrar el final
+3)ColaLD: tiene una complejidad de O(1) ya que hay un puntero que apunta al final de la cola por lo que se deja en esa posicion sin necesidad de recorrerla entera
+
+
